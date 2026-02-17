@@ -19,4 +19,4 @@ A game in whitch a cat is the playable character. The cat can move in one dimens
    - then I started working on my projecet and figured out as i worked on the project. 
 2. Understanding "My Block"
    - this is a block which allows us to creat our own function.
-   - i was stuck on this for a while, but 
+   - I was stuck on this for a while, but with help of trial and error method i was abke to understand the working of "My Block"
